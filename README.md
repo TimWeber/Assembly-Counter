@@ -9,4 +9,4 @@ Learning to work with Assembly, using MPLAB IDE. The counter displays numbers 0-
 * 7-segment display
 
 ## What I learnt
-This is my first time using the Assembly language. I will be continuing to use this language to be completing ever more complex tasks.
+This is my first time using the Assembly language. I will be continuing to use this language to be complete more complex tasks.
